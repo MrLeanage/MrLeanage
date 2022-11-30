@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Uthpala Liyanage</h1>
-<h3 align="center">I am a skilled, experienced Software Engineering Professional and having more than 4 years of software development experience in Desktop application development, Web - applications and Mobile application development with ability to perform and deliver in technically complex projects, meet deadlines and adaptable to ever-changing priorities with good communication with other team members. Loves to work in new solution oriented situations, think out of box and conduct Tech Talk Sessions to team mates who needs. Also doing out sourced projects since 2017 as a hobby.</h3>
+<h3 align="center">I am a skilled, experienced Java Software Engineering Professional and having more than 4 years of software development experience in Desktop application development, Web - applications and Mobile application development with ability to perform and deliver in technically complex projects, meet deadlines and adaptable to ever-changing priorities with good communication with other team members. Loves to work in new solution oriented situations, think out of box and conduct Tech Talk Sessions to team mates who needs. Also doing out sourced projects since 2017 as a hobby.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrleanage&label=Profile%20views&color=0e75b6&style=flat" alt="mrleanage" /> </p>
 
