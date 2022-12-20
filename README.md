@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrleanage" alt="mrleanage" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA 17, 18, 19 DOCS, SPRING BOOT & REACT**
+- 🌱 I’m currently following **JAVA 17, 18, 19 DOCS, SPRING BOOT & REACT**
 
 - 📫 How to reach me **uthpalaliyanage@yahoo.com**
 
