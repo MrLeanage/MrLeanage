@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **uthpalaliyanage@yahoo.com**
 
-- 📄 Know about my experiences [https://github.com/MrLeanage/MrLeanage/raw/main/resume/Senior%20Software%20Engineer%20Resume%20-%20Uthpala%20Liyanage.pdf](https://github.com/MrLeanage/MrLeanage/raw/main/resume/Senior%20Software%20Engineer%20Resume%20-%20Uthpala%20Liyanage.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrleanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrleanage" height="30" width="40" /></a>
