@@ -1,44 +1,197 @@
-<!-- ### Hi there 👋
+# Hi 👋, I'm Uthpala Liyanage
 
-<!--
-**MrLeanage/MrLeanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Lead | Enterprise Java & Spring Boot | Mobile Engineering | Microservices | Software Architecture | Flutter | Python | Cloud
 
-Here are some ideas to get you started:
+I'm a **Software Engineering Professional with 7+ years of experience** designing, developing, modernizing, and maintaining software solutions across **backend, web, mobile, and desktop platforms**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Uthpala Liyanage</h1>
-<h3 align="center">I am a skilled, experienced Software Engineering Professional and having more than 4 years of software development experience in commercial type Desktop application development, Web - applications and Mobile application development with micro services, ability to perform and deliver in technically complex projects, meet deadlines and adaptable to ever-changing priorities with good communication with other team members. Loves to work in new solution oriented situations, think out of box and conducting Tech Talk Sessions to team mates who is in need. Also doing out sourced projects since 2017 as a hobby.</h3>
+My core expertise is in **Java, Spring Boot, REST APIs, Microservices, and backend architecture**, complemented by hands-on experience with **Flutter, Angular, Python/FastAPI, Docker, AWS, Firebase, and relational databases**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrleanage&label=Profile%20views&color=0e75b6&style=flat" alt="mrleanage" /> </p>
+I have worked on **enterprise healthcare systems and commercial software solutions**, contributing to technically complex projects where reliability, maintainability, security, scalability, and software quality are critical.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrleanage" alt="mrleanage" /></a> </p>
+Alongside hands-on engineering, I have experience in **technical leadership, software architecture, mentoring, code reviews, recruitment, Agile/Scrum delivery, production troubleshooting, system modernization, R&D, and technical knowledge sharing**.
 
-- 🌱 I’m currently following **JAVA 17, 18, 19 DOCS, SPRING BOOT & REACT**
+I enjoy solving complex engineering problems, designing maintainable systems, exploring emerging technologies, and helping engineering teams deliver high-quality software.
 
-- 📫 How to reach me **uthpalaliyanage@yahoo.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 About Me
+
+* 💼 **7+ years of Software Engineering experience**
+* ☕ Strong focus on **Java, Spring Boot & Microservices**
+* 🧪 Working Experience in **R&D, AI/LLM Engineering and AI-assisted software development**
+* 🏗️ Working experience in **Software Architecture & System Design**
+* 🔄 Experience modernizing enterprise applications, including **Java 11 → Java 17 migrations**
+* 📱 Building cross-platform applications using **Flutter**
+* 🐍 Working with **Python & FastAPI** for backend services
+* ☁️ Experience with **AWS, Firebase, Docker & CI/CD**
+* 🗄️ Working with **MySQL, PostgreSQL, Oracle & SQL Server**
+* 🧑‍🏫 Experience in **mentoring engineers, code reviews & technical knowledge sharing**
+* 👥 Former **Scrum Master** with experience facilitating Agile software delivery
+* 🚀 Enjoy building products and exploring new software solutions
+
+---
+
+## 🛠️ Core Technology Stack
+
+### Backend & Enterprise Development
+
 <p align="left">
-<a href="https://twitter.com/mrleanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrleanage" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrleanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrleanage" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15456947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15456947" height="30" width="40" /></a>
-<a href="https://fb.com/mrleanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrleanage" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_leanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_leanage" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+**Java • Spring Boot • Spring Framework • REST APIs • Microservices • Python • FastAPI**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrleanage&show_icons=true&locale=en&layout=compact" alt="mrleanage" /></p>
+### Frontend & Mobile
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrleanage&show_icons=true&locale=en" alt="mrleanage" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,angular,html,css,js" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrleanage&" alt="mrleanage" /></p>
+**Flutter • Dart • Angular • HTML • CSS • JavaScript**
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+**MySQL • PostgreSQL • Oracle • SQL Server • SQLite**
+
+### DevOps & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,firebase,git,github,linux" />
+</p>
+
+**Docker • AWS • Firebase • Git • GitHub • Linux • CI/CD**
+
+### Development & Engineering Practices
+
+`System Design`
+`Microservices Architecture`
+`REST API Design`
+`Clean Architecture`
+`Design Patterns`
+`Code Reviews`
+`Unit Testing`
+`TDD`
+`Agile`
+`Scrum`
+`Technical Mentoring`
+`Production Troubleshooting`
+
+---
+
+## 🚀 What I'm Currently Focused On
+
+* 🏗️ **Software Architecture & System Design**
+* ☕ **Modern Java & Spring Boot**
+* 🌐 **Scalable Microservice Architectures**
+* ☁️ **Cloud-native application development**
+* 📱 **Flutter Web & Mobile Development**
+* 🐍 **Python / FastAPI backend development**
+* 🤖 **AI/LLM integration & AI-assisted engineering**
+* 🔐 **Secure and scalable REST API design**
+* ⚙️ **DevOps, CI/CD & deployment automation**
+
+---
+
+## 💼 Professional Experience Highlights
+
+Throughout my career, I've worked across enterprise development and freelance software engineering, including:
+
+* Enterprise **healthcare software development**
+* Java/Spring-based backend systems
+* REST API and microservice development
+* **Java 11 → Java 17 modernization**
+* Spring and dependency modernization
+* Production issue investigation and troubleshooting
+* Technical design and architecture discussions
+* Code reviews and engineering quality improvements
+* Mentoring Software Engineers
+* Technical recruitment and candidate evaluations
+* Agile delivery and Scrum facilitation
+* Cross-functional collaboration
+* Flutter mobile and web applications
+* Python backend services
+* Desktop application development
+* Independent and outsourced software projects
+
+---
+
+## 🤝 Leadership & Engineering
+
+I enjoy working beyond individual feature development and contributing to the broader engineering process.
+
+Some areas I particularly enjoy:
+
+* 🧭 Providing technical direction
+* 🏗️ Designing maintainable software architectures
+* 👨‍💻 Solving complex engineering problems
+* 🔍 Conducting code reviews
+* 🧑‍🏫 Mentoring and supporting engineers
+* 💡 Driving technical discussions and knowledge-sharing sessions
+* 🚀 Exploring new technologies through R&D and proof-of-concepts
+* 🤝 Working with cross-functional teams to deliver reliable software
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrleanage&show_icons=true&locale=en" alt="Uthpala's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrleanage&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrleanage" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Profile
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrleanage&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrleanage&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/mrleanage" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://stackoverflow.com/users/15456947" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+</a>
+
+<a href="https://twitter.com/mrleanage" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/mr_leanage" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+
+</p>
+
+📫 **Email:** [uthpalaliyanage@yahoo.com](mailto:uthpalaliyanage@yahoo.com)
+
+---
+
+### 💬 Let's Connect
+
+I'm always interested in discussing **software architecture, Java/Spring development, microservices, Flutter, backend engineering, AI-assisted development, and challenging software engineering problems**.
+
+I'm also open to connecting with engineers, technical leaders, and teams working on interesting products and scalable software systems.
