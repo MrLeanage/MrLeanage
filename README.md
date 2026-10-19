@@ -4,133 +4,131 @@
 
 ### Technical Lead · Software Architect · Full-Stack & AI/ML Engineer
 
-**Java & Spring Boot | Software Architecture | Full-Stack & Mobile | AI/ML | Cloud & DevOps**
+**Enterprise Java & Spring Boot · Distributed Systems · Product Engineering · Cloud & DevOps**
 
-I design, build, modernize, and deliver software—from enterprise platforms and distributed backends to business products, intelligent applications, and cross-platform experiences.
+I design, build, modernize, and deliver software—from enterprise platforms and distributed backends to business applications, intelligent systems, and cross-platform products.
 
-[![GitHub](https://img.shields.io/badge/GitHub-MrLeanage-181717?style=flat-square&logo=github)](https://github.com/MrLeanage)
+[![GitHub Pro](https://img.shields.io/badge/GitHub_PRO-MrLeanage-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/MrLeanage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrleanage/)
+
+
+![Java](https://img.shields.io/badge/Java-Enterprise-ED8B00?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6D28D9?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00897B?style=flat-square)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 </div>
 
 ---
 
-## About Me
+## Profile
 
-I'm a software engineering professional with nearly **8 years of industry experience**, spanning enterprise application development, solution design, technical leadership, product engineering, and independent client projects.
+I'm a software engineering professional with **nearly 8 years of industry experience** spanning enterprise application engineering, software architecture, technical leadership, and product development. My primary specialization is **Java and Spring-based enterprise systems**, complemented by hands-on work in full-stack, mobile, desktop, cloud, and AI/ML engineering.
 
-My core specialization is **Java and Spring-based enterprise engineering**: designing APIs and services, evolving distributed systems, modernizing legacy applications, improving maintainability, and diagnosing complex production issues. My experience also extends across **web, mobile, desktop, cloud, data, and AI/ML engineering**.
+My work combines technical depth with delivery responsibility: designing and integrating services, modernizing applications, resolving production issues, reviewing code, mentoring engineers, and collaborating across teams. Alongside enterprise work, I contribute to software products, independent client solutions, and applied research across multiple industries.
 
-I combine hands-on development with technical leadership: architecture discussions, code reviews, mentoring, technical knowledge sharing, interviewing, cross-functional collaboration, and Agile delivery. My broader work includes commercial software initiatives, independent client engagements, and applied research across multiple domains.
+## Areas of Expertise
 
-## Engineering Focus
+- **Enterprise platforms & backend engineering:** Java, Spring Boot, Spring Framework, RESTful APIs, microservices, distributed systems, messaging, integrations, application security, and modernization.
+- **Architecture & engineering leadership:** Solution design, technical decision-making, OOP, SOLID, design patterns, maintainability, code reviews, mentoring, technical interviews, and delivery coordination.
+- **Full-stack development:** Angular, React, TypeScript, JavaScript, PHP/Laravel, and backend-integrated web applications.
+- **Mobile & desktop engineering:** Flutter/Dart, Android/Kotlin, JavaFX, and Python desktop applications.
+- **AI/ML & computer vision:** Python, model training and evaluation, TensorFlow/Keras, PyTorch, scikit-learn, OpenCV, CNNs, SVMs, and NLP.
+- **Generative AI & engineering workflows:** LLM integration and experimentation, AI agents, prompt/context engineering, MCP concepts and workflows, and GitHub Copilot.
+- **Cloud, quality & delivery:** Containerization, CI/CD, testing, cloud environments, production troubleshooting, and root-cause analysis.
 
-- **Enterprise & backend systems:** Java, Spring Boot, Spring Framework, REST APIs, microservices, distributed systems, integrations, security, performance, and modernization.
-- **Architecture & technical leadership:** Solution design, design patterns, SOLID principles, maintainability, code quality, technical reviews, mentoring, recruitment, and delivery coordination.
-- **Full-stack engineering:** Angular, React, TypeScript, JavaScript, PHP, Laravel, and backend-driven web applications.
-- **Mobile & desktop:** Flutter, Dart, Kotlin, JavaFX, and cross-platform application development.
-- **AI, machine learning & computer vision:** Python, TensorFlow/Keras, PyTorch, scikit-learn, CNNs, SVMs, OpenCV, NLP, model training, evaluation, and applied AI solutions.
-- **LLMs & AI-assisted engineering:** LLM integration and experimentation, AI agents, prompt/context engineering, MCP concepts and workflows, GitHub Copilot, and agent-readable project guidance.
-- **Cloud, delivery & operations:** Docker, Kubernetes, CI/CD, cloud environments, observability-minded troubleshooting, release support, and root-cause analysis.
+## Experience & Impact
+
+### [Cambio Software Engineering](https://www.cambiogroup.com) — Healthcare & Distributed Systems
+
+- Contributed to **COSMIC Nova**, a large-scale enterprise healthcare platform, through application engineering, integration work, and modernization initiatives.
+- Worked on **Java 11 → 17 migration** and Spring technology modernization.
+- Developed, maintained, and troubleshot backend services, REST APIs, and enterprise applications.
+- Investigated production incidents, performed root-cause analysis, and supported application reliability and delivery.
+- Participated in architectural discussions, technical design, code reviews, and cross-functional engineering collaboration.
+
+### [Devzone](https://www.devzone.lk) — Software Engineering & Product Development
+
+- Contributed to the **design, architecture, implementation, and delivery** of custom software and business-oriented product initiatives.
+- Worked across backend, frontend, mobile, and desktop engineering with Java, Spring Boot, Python, JavaScript/TypeScript, and Flutter.
+- Designed REST APIs, database structures, system integrations, and automation solutions. 
+- Worked on business management platforms, POS applications, custom systems, and SaaS-oriented initiatives.
+- Applied modular design, reusable components, and maintainable engineering practices throughout planning, development, testing, and deployment.
+- Explored and implemented applied AI/ML and Python-based intelligent automation capabilities.
+
+### Technical Leadership & Delivery
+
+- Supported architecture decisions, technical planning, engineering coordination, and code quality initiatives.
+- Mentored developers, shared technical knowledge, reviewed code, and participated in technical hiring.
+- Undertook **Scrum Master responsibilities** alongside engineering work, including Agile ceremonies and delivery coordination.
+- Worked across requirements, design, implementation, testing, release, and production support.
+
+### Independent Client Work & Applied Research
+
+- Worked on web, mobile, desktop, backend, integration, automation, and AI/ML solutions for client and research use cases.
+- Trained and evaluated machine-learning models and worked with computer-vision pipelines and intelligent application features.
+- Applied engineering approaches to business workflows and specialized domain requirements.
 
 ## Technology Stack
 
 | Area | Technologies & Practices |
 | --- | --- |
 | **Languages** | Java, Kotlin, Python, Dart, TypeScript, JavaScript, PHP, SQL |
-| **Backend** | Spring Boot, Spring Framework, Spring MVC, Hibernate/JPA, REST APIs, Django, FastAPI, Laravel, J2EE/Jakarta EE |
+| **Backend** | Spring Boot, Spring Framework, Spring MVC, Hibernate/JPA, J2EE/Jakarta EE, REST APIs, Django, FastAPI, Laravel |
 | **Frontend** | Angular, React, HTML, CSS, JavaScript, TypeScript |
 | **Mobile & Desktop** | Flutter, Android/Kotlin, JavaFX, Python desktop applications |
-| **Data** | Microsoft SQL Server, MySQL, PostgreSQL, Firebase, SQL/NoSQL concepts |
+| **Databases & Data** | Microsoft SQL Server, MySQL, PostgreSQL, Firebase, SQL/NoSQL concepts |
 | **Integration & Messaging** | Microservices, distributed systems, Apache Kafka, Red Hat AMQ, API integrations |
-| **AI & Data Science** | TensorFlow, Keras, PyTorch, scikit-learn, OpenCV, CNNs, SVMs, NLP, model training and evaluation |
-| **Generative AI** | LLMs, AI agents, MCP-enabled workflows, prompt/context engineering, GitHub Copilot |
+| **AI/ML & Computer Vision** | TensorFlow, Keras, PyTorch, scikit-learn, OpenCV, CNNs, SVMs, NLP, model training and evaluation |
+| **Generative AI** | LLMs, AI agents, MCP workflows, prompt/context engineering, GitHub Copilot |
 | **Cloud & DevOps** | Docker, Kubernetes, AWS, Azure, GCP, Jenkins, GitHub Actions, GitLab CI/CD |
 | **Tools & Platforms** | Git, Maven, Gradle, Linux, JBoss EAP, Apache Tomcat |
-| **Quality & Testing** | JUnit, Mockito, Selenium, SonarQube, k6, unit/integration testing, code review |
-| **Engineering Practices** | OOP, SOLID, design patterns, Agile/Scrum, CI/CD, architecture, debugging, performance optimization |
+| **Testing & Quality** | JUnit, Mockito, Selenium, SonarQube, k6, unit and integration testing |
+| **Practices** | OOP, SOLID, design patterns, Agile/Scrum, CI/CD, debugging, performance optimization |
 
-> My strongest professional foundation is enterprise Java and full-stack engineering. Other technologies reflect complementary experience across employment, independent client delivery, research, and product development—not equal specialization in every tool.
-
-## Experience & Impact
-
-### Enterprise Software Engineering — Healthcare & Distributed Systems
-
-- Contributed to **COSMIC Nova**, a large-scale enterprise healthcare platform, including application engineering, integrations, and system modernization.
-- Worked on **Java 11 → 17 migration**, Spring technology modernization, and enterprise application improvements.
-- Designed, developed, maintained, and troubleshot backend services, RESTful APIs, and enterprise applications.
-- Investigated complex production issues, performed root-cause analysis, and supported reliable software delivery.
-- Participated in software architecture, technical design discussions, code reviews, and continuous improvement initiatives.
-- Collaborated with cross-functional engineering teams to deliver maintainable and reliable solutions.
-
-### DevZone — Software Engineering & Product Development
-
-- Contributed to the **design, architecture, development, and delivery of software applications and digital solutions** for diverse business needs.
-- Worked across **backend, frontend, mobile, and desktop development**, using technologies including Java, Spring Boot, Python, JavaScript/TypeScript, and Flutter.
-- Designed and implemented **RESTful APIs, database architectures, system integrations, and business automation solutions**.
-- Worked on **business management platforms, POS solutions, custom applications, and SaaS-oriented product initiatives**.
-- Applied modular architecture, reusable components, and maintainable software engineering practices.
-- Explored and implemented **AI/ML capabilities, intelligent automation, and Python-based solutions** for practical use cases.
-- Participated in technical planning, solution design, implementation, testing, and deployment activities.
-
-### Cross-Industry Engineering Experience
-
-- **Healthcare & HealthTech:** Enterprise healthcare applications, integrations, and modernization.
-- **Retail & RetailTech:** Retail management, inventory, sales, and POS solutions.
-- **Financial Services & FinTech:** Business applications and financial workflows.
-- **IoT & Connected Systems:** Device-connected applications and integrations.
-- **HR & Employee Management:** Workforce and employee management solutions.
-- **Agriculture & AgriTech:** Agricultural technology applications and digital solutions.
-
-### Technical Leadership & Engineering Practices
-
-- Supported architecture discussions, technical planning, engineering coordination, and pragmatic design decisions.
-- Mentored developers, facilitated knowledge sharing, participated in technical hiring, and conducted code reviews.
-- Worked with **OOP, SOLID principles, design patterns**, and maintainable software architecture.
-- Took on **Scrum Master responsibilities alongside engineering work**, facilitating Agile ceremonies and delivery coordination.
-- Investigated performance and reliability issues through debugging, troubleshooting, and root-cause analysis.
-- Contributed across the software lifecycle, from requirements and design to development, testing, deployment, and support.
-
-### Independent Client Work & Applied Research
-
-- Delivered and explored **web, mobile, desktop, backend, and AI/ML solutions** for independent clients and research use cases.
-- Worked with trained ML models, computer vision pipelines, and intelligent application features.
-- Applied engineering and product-development experience to business workflows and specialized software needs.
+> **Depth and breadth:** Enterprise Java and full-stack engineering form my primary professional foundation. Other technologies reflect additional hands-on experience through employment, independent client work, research, and product initiatives; they do not imply equal specialization in every tool.
 
 ## Selected Work & Initiatives
 
-| Project / Initiative | Focus |
+| Project / Initiative | Scope |
 | --- | --- |
-| **COSMIC Nova** | Enterprise healthcare platform, Java/Spring engineering, integrations, modernization, and production support *(professional experience; proprietary code not published here)* |
-| **DevZone** | Technical contributions to custom software solutions and product initiatives |
-| **MyXenon / XENON POS** | Business software and POS ecosystem, including retail/pharmacy/bakery workflows and multi-location management concepts |
-| **Farm Buddy** | Agriculture-focused application and computer-vision research using CNN-based plant growth-stage classification |
-| **Mansek** | Financial/trading-oriented application development |
-| **Additional client work** | Web, mobile, desktop, automation, integrations, and AI/ML solutions; details shared where confidentiality permits |
+| **[Cosmic Nova](https://www.cambiogroup.com/our-solutions/cambio-cosmic/)** | Enterprise healthcare platform; Java/Spring engineering, integrations, modernization, and production support. *Proprietary professional work; source code is not published here.* |
+| **[Devzone](https://www.devzone.lk)** | Custom software engineering and business-oriented product initiatives. |
+| **MyXenon / XENON POS** | Business software and POS ecosystem covering retail, pharmacy, and bakery workflows, with multi-location management concepts. *Product initiative; features may be in development.* |
+| **Farm Buddy** | Agriculture-focused application and computer-vision research involving CNN-based plant growth-stage classification. |
+| **[Mansek](https://www.mandirisekuritas.co.id)** | Financial/trading-oriented application development. |
+| **Additional client work** | Web, mobile, desktop, integrations, automation, and AI/ML solutions; details shared where confidentiality allows. |
 
-> Some projects are proprietary, client-owned, private, or under active development. Public repositories are a selected view of my work rather than a complete record of delivery.
+> Some work is proprietary, client-owned, private, or still under development. Public repositories represent selected examples rather than a complete record of professional delivery.
 
 ## Industries & Business Domains
 
 **Healthcare / HealthTech · Retail / RetailTech · Financial Services / FinTech · IoT & Connected Systems · HR & Employee Management · Agriculture / AgriTech**
 
-## What I Value
+## Engineering Approach
 
-- **Engineering depth:** Clear design, strong fundamentals, testability, and long-term maintainability.
-- **Business impact:** Software that solves operational problems and supports real users.
-- **Ownership:** From discovery and architecture to implementation, deployment, and support.
-- **Collaboration:** Knowledge sharing, constructive reviews, and growing engineering capability.
-- **Practical innovation:** Applying cloud, automation, and AI where they create measurable value.
+I value **sound architecture, testability, maintainable code, practical problem-solving, and measurable business value**. I aim to balance long-term engineering quality with delivery needs, and to apply automation, cloud, and AI where they provide a useful outcome rather than complexity for its own sake.
 
-## Collaboration
+## Connect & Collaborate
 
-I work across **enterprise software engineering, custom business applications, backend/API development, architecture and modernization, full-stack and mobile applications, integrations, and applied AI/ML**.
+I collaborate on **enterprise engineering, architecture and modernization, custom business software, backend APIs, integrations, full-stack and mobile applications, and applied AI/ML solutions**.
 
-For technical discussions, product collaboration, or software development inquiries, connect with me through [GitHub](https://github.com/MrLeanage). Additional professional and business contact links can be added here.
+[**GitHub — @MrLeanage**](https://github.com/MrLeanage) · [**Explore repositories**](https://github.com/MrLeanage?tab=repositories)
+
+<!-- Optional: add verified LinkedIn, professional email, portfolio, and public project/demo URLs here. -->
 
 ---
 
 <div align="center">
 
-*Building dependable software, thoughtful architecture, and products that solve real problems.*
+*Engineering dependable systems. Building software that solves real problems.*
 
 </div>
