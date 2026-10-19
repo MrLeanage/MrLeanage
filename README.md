@@ -1,6 +1,6 @@
 <div align="center">
 
-# Uthpala D. Liyanage
+# Uthpala Liyanage
 
 ### Technical Lead · Software Architect · Full-Stack & AI/ML Engineer
 
@@ -16,7 +16,7 @@ I design, build, modernize, and deliver software—from enterprise platforms and
 
 ## About Me
 
-I'm a software engineering professional with **7+ years of industry experience**, spanning enterprise application development, solution design, technical leadership, product engineering, and independent client projects.
+I'm a software engineering professional with nearly **8 years of industry experience**, spanning enterprise application development, solution design, technical leadership, product engineering, and independent client projects.
 
 My core specialization is **Java and Spring-based enterprise engineering**: designing APIs and services, evolving distributed systems, modernizing legacy applications, improving maintainability, and diagnosing complex production issues. My experience also extends across **web, mobile, desktop, cloud, data, and AI/ML engineering**.
 
