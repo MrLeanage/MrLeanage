@@ -47,13 +47,20 @@ My work combines technical depth with delivery responsibility: designing and int
 
 ## Experience & Impact
 
-### [Cambio Software Engineering](https://www.cambiogroup.com) — Healthcare & Distributed Systems
 
-- Contributed to **COSMIC Nova**, a large-scale enterprise healthcare platform, through application engineering, integration work, and modernization initiatives.
-- Worked on **Java 11 → 17 migration** and Spring technology modernization.
-- Developed, maintained, and troubleshot backend services, REST APIs, and enterprise applications.
-- Investigated production incidents, performed root-cause analysis, and supported application reliability and delivery.
-- Participated in architectural discussions, technical design, code reviews, and cross-functional engineering collaboration.
+### [Cambio Software Engineering](https://www.cambiogroup.com) — Enterprise Healthcare, Distributed Systems & AI-Assisted Engineering
+
+- Contributed to **COSMIC Nova**, a large-scale enterprise healthcare platform, through backend engineering, distributed system integrations, application modernization, and production support.
+- Worked on **Java 11 → 17 migration**, Spring Framework modernization, transaction-management upgrades, impact analysis, proof-of-concept development, and technical validation.
+- Developed, maintained, and troubleshot **Java/Spring-based backend services, REST APIs, enterprise integrations, and distributed application workflows**.
+- Participated in **early AI adoption initiatives**, exploring and applying LLMs, AI coding agents, and MCP-enabled engineering workflows.
+- Applied **context engineering and AI-assisted development practices**, creating project-specific instructions, coding conventions, repository guidance, and agent-readable documentation to improve AI-generated code quality and consistency.
+- Developed **Markdown-based agent skill sets and contextual guidance** to help coding agents understand project architecture, follow established engineering patterns, and optimize context and token usage.
+- Explored **LLM behavior, MCP integration concepts, and context optimization techniques** to improve the effectiveness of AI-assisted software engineering.
+- Investigated and resolved complex production, framework, dependency, and integration issues through technical troubleshooting and root-cause analysis.
+- Contributed to **architecture discussions, technical design, code reviews, knowledge sharing, and cross-functional collaboration**.
+- Undertook **Scrum Master responsibilities**, facilitating Agile ceremonies, team coordination, and delivery activities alongside software engineering work.
+
 
 ### [Devzone](https://www.devzone.lk) — Software Engineering & Product Development
 
