@@ -2,7 +2,7 @@
 
 # Uthpala Liyanage
 
-### Technical Lead · Software Architect · Full-Stack & AI/ML Engineer
+### Technical Lead · Full-Stack & AI/ML Engineer
 
 **Enterprise Java & Spring Boot · Distributed Systems · Product Engineering · Cloud & DevOps**
 
